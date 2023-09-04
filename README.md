@@ -1,1 +1,1 @@
-# Conversor-de-unidades
+O programa em Java irá exibir um menu para o usuário digitar qual opção ele deseja realizar. Após digitar o número da opção, o usuário irá digitar os dados que forem solicitados e o programa irá realizar a conversão, podendo ser de Quilometros para Milhas, de Celsius para Fahrenheit ou de Converter de Metros para Pés. Para finalizar, basta o usuário digitar o número 4 ao entrar no Menu.
